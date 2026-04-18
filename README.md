@@ -1,27 +1,76 @@
-## Allen Davis - Full-Stack Ruby on Rails Developer 💻
+# 🚀 Building scalable SaaS systems with Rails
 
-## 📌 About Me
-👋 **Hi there! I'm Allen**, an experienced Full-Stack Developer specialized in Ruby on Rails, with a knack for creating elegant and efficient web applications. My journey in tech has been driven by my passion for developing software that not only meets but exceeds client expectations.
+## 👋 Hey, I'm Allen Davis
 
-## 🚀 Professional Summary
-With a rich background in Ruby on Rails development, I've had the opportunity to design and develop a variety of web applications for corporate clients. My expertise lies in writing clean, maintainable code and leveraging the latest software tools to bring innovative ideas to life. I pride myself on my ability to lead teams effectively and make impactful decisions at every level of responsibility.
+**Ruby on Rails Developer | SaaS Builder | API Specialist**
 
-### 💻 Technical Skills
-- **Languages**: Ruby on Rails 🛤️, JavaScript ✨, HTML5 📄, CSS3 🎨
-- **Database**: PostgreSQL 🗃️
-- **Deployment**: AWS EC2 ☁️, Capistrano 🚀
+I help founders, product teams, and agencies build scalable, production-ready SaaS applications and APIs.
 
-## 💡 Problem-Solving Wizardry
-I thrive on unraveling complex challenges, especially in the dynamic world of Ruby on Rails development. Whether it's fine-tuning code for peak performance, debugging intricate issues, or crafting resilient and scalable systems, I tackle each task with a solution-focused approach. My commitment to quality is unwavering, as I strive to transform every problem into an opportunity for innovation and excellence.
+---
 
-## 📘 Lifelong Learning
-In the rapidly evolving landscape of technology, I stay committed to a path of continuous learning. My role as a Full-Stack Ruby on Rails Developer requires not just technical proficiency but also an adaptive mindset to keep pace with the latest industry trends and advancements. I'm constantly refining my skills in Ruby on Rails, JavaScript, and other front-line technologies, ensuring that I bring the most current and effective solutions to every project. This dedication to lifelong learning is not just a professional necessity, but a personal passion that drives me to explore, innovate, and excel.
+## ⚡ Credibility
 
-## 💼 Leadership at Unsolved.network
-As a co-founder of Unsolved.network, I have taken on the rewarding challenge of merging technical expertise with business acumen. This role has honed my skills in strategic planning, team leadership, and project management, all while keeping my hands firmly on the pulse of technological innovation. Leading Unsolved.network, I am committed to creating an environment that fosters creativity, collaboration, and excellence. My experience here has not only enriched my professional journey but also reinforced my belief in the power of technology to make a meaningful impact.
+- 7+ years building production-grade Rails applications  
+- Worked with SaaS founders, product teams & agencies  
+- Delivered scalable backend systems and APIs in real-world environments  
 
-## 📫 How to Reach Me
-Please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/allendavis2911/) for work experiences, contact information, and more!
+---
 
-## 🤝 Let's Connect!
-Always open to collaborating on interesting projects or just having a chat about technology and innovation!
+## 🧠 What I Do
+
+- Build multi-tenant SaaS platforms with Ruby on Rails  
+- Design high-performance APIs (REST, OAuth, integrations)  
+- Handle background jobs using Sidekiq & Redis  
+- Implement media pipelines (S3 uploads, HLS video streaming)  
+- Deploy and scale systems using AWS, Docker, and Kubernetes  
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend
+- Ruby on Rails (6 → 8)
+- PostgreSQL
+- Redis / Sidekiq
+
+### Infrastructure
+- AWS (S3, EC2)
+- Docker / Kubernetes
+- Nginx / Capistrano
+
+### Frontend
+- React / React Native
+- Tailwind CSS
+
+---
+
+## 💼 What I've Built
+
+### Multi-Tenant SaaS Platforms
+- Scalable architecture for multiple clients  
+- Subscription and billing systems  
+- Optimized background job processing  
+
+### API Authentication Systems
+- Access and refresh token architecture  
+- OAuth integrations  
+- Secure token lifecycle handling  
+
+### Video Processing Pipeline
+- Upload → Process → HLS streaming  
+- Multi-resolution streaming for optimized playback  
+- Background job-based processing  
+
+
+---
+
+## 🧩 Currently Exploring
+
+- Scaling feed-based systems (Redis, caching strategies)  
+- Advanced video streaming pipelines  
+- Kubernetes-based deployments  
+
+
+---
+
+⭐ Focused on building real-world systems, not just writing code.
